@@ -1,0 +1,6 @@
+<roq id(1).
+ekle++Adafruit_Fingerprint.h, SD.h, SPI.h, LiquidCrystal_I2C.h, Wire.h++.
+yaz(Bunlar gerekli kütüphaneler).
+end.
+qub(0). //Bazı OSler kapatamadıgından dolayı son durumu 0 yaptım
+>
