@@ -1,4 +1,6 @@
-/*12 Kasım 2021 Ben Yiğit Gökbunar. Bugün yemekhane için parmak izi ile yoklama sistemi projesine başladım, buraya gerekli notları ve gelişmeleri alacağım.
+/*
+ÖNEMLİ NOT: BU KOD BOZUK SAKIN KULLANMAYIN SADECE ZAMAN KAYBI. TAMİR ETMEYİ DÜŞÜNMEYİN BİLE
+12 Kasım 2021 Ben Yiğit Gökbunar. Bugün yemekhane için parmak izi ile yoklama sistemi projesine başladım, buraya gerekli notları ve gelişmeleri alacağım.
 Öncelikle hibernate modu eklemeyi planladım fakat Arduino üzerinde bazı değişiklikler yapmak gerekliydi ve bu uğraşa raşmen istediğim şey değildi kesinlikle
 bu yüzden eklemeyeceğim bu yüzden bu notu görüp hala hibernate sorusu sorulursa cevaplamayacağım. 324. Satır değişiklik yaptım FINGERPRINT_SEC ekledim*/
 #include <Wire.h> //kütüphaneler eklendi
